@@ -1,0 +1,7 @@
+{
+  "name": "LeetCode",
+  "packageManager": "yarn@4.3.1",
+  "devDependencies": {
+    "tsx": "^4.19.2"
+  }
+}
